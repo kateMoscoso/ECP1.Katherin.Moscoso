@@ -1,5 +1,5 @@
 package ECP1.Katherin.Moscoso;
 
-public class Profesor {
+public class Profesor extends Person {
 
 }
