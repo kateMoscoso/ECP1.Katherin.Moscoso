@@ -1,5 +1,6 @@
 package ECP1.Katherin.Moscoso;
 
-public class Delegado {
+public class Delegado extends Alumno{
+	
 
 }
